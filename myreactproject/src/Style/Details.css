@@ -1,0 +1,16 @@
+
+.img{
+    height: 500px;
+    width: 80%;
+}
+body{
+    margin: 20px;
+}
+.order{
+    box-shadow:5px 5px 5px 5px grey;
+    float: right;
+    background-color: lightcoral;
+    
+}
+
+
